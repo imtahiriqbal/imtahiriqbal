@@ -3,7 +3,7 @@
 <p align="center">A PASSIONATE <b>PROGRAMMER / DEVELOPER</b> FROM <strong>PAKISTAN</strong></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tahiriqbalgit&label=Visitors&color=0e75b6&style=flat" alt="tahiriqbalgit" /></p>
 
-
+### 💻 About Me
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id}) -->
 <!--
 **TahirIqbalGit/TahirIqbalGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,10 +51,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahirIqbalGit&title_color=ffffff&text_color=c9cacc&icon_color=0e75b6&bg_color=1d1f21&langs_count=3" />
 </a>
 
-### Deployment Stats
+### ☁️ Deployment Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahiriqbalgit&title_color=ffffff&text_color=c9cacc&icon_color=0e75b6&bg_color=1d1f21" alt="tahiriqbalgit" /></p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with Me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/imtahiriqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imtahiriqbal" height="30" width="40" /></a>
 </p>
