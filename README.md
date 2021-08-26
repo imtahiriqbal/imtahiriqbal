@@ -1,6 +1,6 @@
 #
 <h1 align="center">Hi there, I'm <a href="https://lnkd.in/eudd9-Ki">Tahir Iqbal</a> <img src="https://raw.githubusercontent.com/TahirIqbalGit/TahirIqbalGit/master/wave.gif" width="30px"></h1>
-<p align="center">A PASSIONATE <b>PROGRAMMER / DEVELOPER</b> FROM <strong>PAKISTAN</strong></p>
+<p align="center">ASSALAM O ALAIKUM<br>A PASSIONATE <b>PROGRAMMER / DEVELOPER</b> FROM <strong>PAKISTAN</strong></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tahiriqbalgit&label=Visitors&color=0e75b6&style=flat" alt="tahiriqbalgit" /></p>
 
 ### 💻 About Me
