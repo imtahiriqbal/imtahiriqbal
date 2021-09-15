@@ -1,9 +1,15 @@
+
+
 #
 <h1 align="center">Hi there, I'm <a href="https://lnkd.in/eudd9-Ki">Tahir Iqbal</a> <img src="https://raw.githubusercontent.com/TahirIqbalGit/TahirIqbalGit/master/wave.gif" width="30px"></h1>
 <p align="center">ASSALAM O ALAIKUM<br>A PASSIONATE <b>PROGRAMMER / DEVELOPER</b> FROM <strong>PAKISTAN</strong></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tahiriqbalgit&label=Visitors&color=0e75b6&style=flat" alt="tahiriqbalgit" /></p>
 
 ### 💻 About Me
+<div align="center">
+ <img src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif" width="40" height="40">
+ <p>Loading</p>
+</div>
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id}) -->
 <!--
 **TahirIqbalGit/TahirIqbalGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
