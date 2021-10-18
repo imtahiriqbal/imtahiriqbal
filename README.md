@@ -14,7 +14,7 @@
 
 <div align="center">
  <img src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif" width="40" height="40">
- <p>Loading</p>
+ <p>Loading...</p>
 </div>
 
 
@@ -69,15 +69,15 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/imtahiriqbal/" target="_blank">
   <img alt="Tahir Iqbal | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-  <a href="http://twitter.com/_TahirIqbal">
-    <img src="https://img.shields.io/twitter/follow/_TahirIqbal?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
+ <a href="https://www.instagram.com/imtahiriqbal" target="_blank">
+  <img alt="Tahir Iqbal | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 <a href="https://www.facebook.com/imtahiriqbal" target="_blank">
   <img  alt="Tahir Iqbal | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/imtahiriqbal" target="_blank">
-  <img alt="Tahir Iqbal | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+ <a href="http://twitter.com/_TahirIqbal">
+    <img src="https://img.shields.io/twitter/follow/_TahirIqbal?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
 </p>
 
 
