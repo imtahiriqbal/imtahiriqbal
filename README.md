@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahiriqbalgit&show_icons=true&locale=en&layout=compact" alt="tahiriqbalgit" /></p> -->
 
 
-<h3 align="center"> 🔧 Technologies & Tools </h3>
+<h3 align="center"> 🔧 Tools & Technologies </h3>
 <div align="center">
  
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0e75b6)
@@ -88,14 +88,16 @@ Here are some ideas to get you started:
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahiriqbalgit&show_icons=true&locale=en" alt="tahiriqbalgit" /></p> -->
 <div align="center">
 <a href="https://github.com/TahirIqbalGit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TahirIqbalGit&show_icons=true&hide_border=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=0e75b6&bg_color=1d1f21" alt="Tahir Iqbal's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahirIqbalGit&show_icons=true&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=0e75b6&bg_color=1d1f21&langs_count=3" />
+  <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=TahirIqbalGit&show_icons=true&hide_border=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=0e75b6&bg_color=1d1f21" alt="Tahir Iqbal's GitHub Stats" />
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahirIqbalGit&hide=TeX&layout=compact&show_icons=true&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=0e75b6&bg_color=1d1f21" />
+ 
 </a>
- </div>
+</div>
 
 <h3 align="center"> ☁️ Deployment Stats <h3/>
 <div align="center">
-<a href="https://github.com/TahirIqbalGit">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahiriqbalgit&fire=C77800&ring=DD910B&title_color=ffffff&text_color=c9cacc&icon_color=0e75b6&bg_color=1d1f21" alt="tahiriqbalgit" />
+ <a href="https://github.com/TahirIqbalGit">
+ <img width="450px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahiriqbalgit&theme=dark&hide_border=true&fire=0e75b6&ring=0e75b6&currStreakLabel=0e75b6&color=ffffff&text_color=c9cacc&icon_color=0e75b6&background=1d1f21" alt="tahiriqbalgit" /><br><br>
+  <img width="850px" alt="Tahir Iqbal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tahiriqbalgit&bg_color=1d1f21&color=ffffff&line=0e75b6&point=444040&area=true&hide_border=true" />
 </a>
- </div>
+</div>
