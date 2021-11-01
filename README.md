@@ -9,7 +9,7 @@
 <h3 align="center"> 💻 About Me </h3>
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0e75b6&lines=Full-Stack+Python+Web+Developer;AI+and+Machine+Learning+Enthausist;Coder,+Programmer,+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0e75b6&lines=Full-Stack+Python+Developer;AI+and+Machine+Learning+Enthusiast;Coder,+Programmer,+Problem+Solver)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
