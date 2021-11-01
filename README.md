@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 <div align="center">
 <a href="https://github.com/TahirIqbalGit">
   <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=TahirIqbalGit&show_icons=true&hide_border=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=0e75b6&bg_color=1d1f21" alt="Tahir Iqbal's GitHub Stats" />
-  <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahirIqbalGit&hide=TeX,html,css,scss&layout=compact&show_icons=true&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=0e75b6&bg_color=1d1f21" />
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahirIqbalGit&hide=TeX,html,css,scss&layout=compact&show_icons=true&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=0e75b6&bg_color=1d1f21" />
  
 </a>
 </div>
