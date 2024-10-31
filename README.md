@@ -1,15 +1,15 @@
 
 
 #
-<h1 align="center">Hi there, I'm <a href="https://lnkd.in/eudd9-Ki">Tahir Iqbal</a> <img src="https://raw.githubusercontent.com/TahirIqbalGit/TahirIqbalGit/master/wave.gif" width="30px"></h1>
-<p align="center">ASSALAM O ALAIKUM<br>A PASSIONATE <b>PROGRAMMER / DEVELOPER</b> FROM <strong>PAKISTAN</strong></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tahiriqbalgit&label=Visitors&color=0e75b6&style=flat" alt="tahiriqbalgit" /></p>
+<h1 align="center">Hi there, I'm <a href="https://linkedin.com/in/imtahiriqbal">Tahir Iqbal</a> <img src="https://raw.githubusercontent.com/imtahiriqbal/imtahiriqbal/master/wave.gif" width="30px"></h1>
+<p align="center">A PASSIONATE <b>PROGRAMMER / DEVELOPER</b></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=imtahiriqbal&label=Visitors&color=0e75b6&style=flat" alt="imtahiriqbal" /></p>
 
  
 <h3 align="center"> 💻 About Me </h3>
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0e75b6&lines=Full-Stack+Python+Developer;AI+and+Machine+Learning+Enthusiast;Coder,+Programmer,+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0e75b6&lines=Full-Stack/Backend+Python+Developer;AI+and+Machine+Learning+Enthusiast;Coder,+Programmer,+Problem+Solver)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
@@ -63,20 +63,20 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/imtahiriqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imtahiriqbal" height="30" width="40" /></a>
 </p> -->
  <p align="center">
-  <a href="https://github.com/TahirIqbalGit?tab=followers">
-    <img src="https://img.shields.io/github/followers/TahirIqbalGit?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  <a href="https://github.com/imtahiriqbal?tab=followers">
+    <img src="https://img.shields.io/github/followers/imtahiriqbal?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://www.linkedin.com/in/imtahiriqbal/" target="_blank">
   <img alt="Tahir Iqbal | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
- <a href="https://www.instagram.com/imtahiriqbal" target="_blank">
+<!--  <a href="https://www.instagram.com/imtahiriqbal" target="_blank">
   <img alt="Tahir Iqbal | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/imtahiriqbal" target="_blank">
   <img  alt="Tahir Iqbal | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
- <a href="http://twitter.com/_TahirIqbal">
-    <img src="https://img.shields.io/twitter/follow/_TahirIqbal?label=Twitter&logo=twitter&style=for-the-badge" />
+</a> -->
+ <a href="http://x.com/_TahirIqbal">
+    <img src="https://img.shields.io/twitter/follow/_TahirIqbal?label=X&logo=x&style=for-the-badge" />
   </a>
 </p>
 
@@ -87,17 +87,17 @@ Here are some ideas to get you started:
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TahirIqbalGit&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahiriqbalgit&show_icons=true&locale=en" alt="tahiriqbalgit" /></p> -->
 <div align="center">
-<a href="https://github.com/TahirIqbalGit">
-  <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=TahirIqbalGit&show_icons=true&hide_border=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=0e75b6&bg_color=1d1f21" alt="Tahir Iqbal's GitHub Stats" />
-  <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahirIqbalGit&hide=TeX,html,css,scss&layout=compact&show_icons=true&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=0e75b6&bg_color=1d1f21" />
+<a href="https://github.com/imtahiriqbal">
+  <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=imtahiriqbal&show_icons=true&hide_border=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=0e75b6&bg_color=1d1f21" alt="Tahir Iqbal's GitHub Stats" />
+  <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtahiriqbal&hide=TeX,html,css,scss&layout=compact&show_icons=true&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=0e75b6&bg_color=1d1f21" />
  
 </a>
 </div>
 
 <h3 align="center"> ☁️ Deployment Stats <h3/>
 <div align="center">
- <a href="https://github.com/TahirIqbalGit">
- <img width="450px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahiriqbalgit&theme=dark&hide_border=true&fire=0e75b6&ring=0e75b6&currStreakLabel=0e75b6&color=ffffff&text_color=c9cacc&icon_color=0e75b6&background=1d1f21" alt="tahiriqbalgit" /><br><br>
-  <img width="850px" alt="Tahir Iqbal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tahiriqbalgit&bg_color=1d1f21&color=ffffff&line=0e75b6&point=444040&area=true&hide_border=true" />
+ <a href="https://github.com/imtahiriqbal">
+ <img width="450px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imtahiriqbal&theme=dark&hide_border=true&fire=0e75b6&ring=0e75b6&currStreakLabel=0e75b6&color=ffffff&text_color=c9cacc&icon_color=0e75b6&background=1d1f21" alt="imtahiriqbal" /><br><br>
+  <img width="850px" alt="Tahir Iqbal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imtahiriqbal&bg_color=1d1f21&color=ffffff&line=0e75b6&point=444040&area=true&hide_border=true" />
 </a>
 </div>
